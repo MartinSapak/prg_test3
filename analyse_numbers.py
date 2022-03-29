@@ -32,7 +32,6 @@ def is_even_number(number):
     return list_of_results_even
 
 def main():
-    my_number = -2
     my_numbers_list = [1, 2, 3, 5]
     result_whole = is_whole_number(my_numbers_list)
     print(f'Is whole number: {result_whole}')
